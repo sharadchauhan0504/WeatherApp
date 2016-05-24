@@ -50,7 +50,7 @@
     
     NSString *urlAdditionString =  self.searchCity.text;
     NSString *initialURL = @"http://api.openweathermap.org/data/2.5/weather?q=";
-    NSString *endURL= @"&appid=a0451f4181eadbdf7e44b23f9a91a826";
+    NSString *endURL= @"&appid=your_app_id";
     NSString *finalURL = [NSString stringWithFormat:@"%@%@%@",initialURL, urlAdditionString, endURL  ];
     
     
