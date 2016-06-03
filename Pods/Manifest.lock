@@ -14,14 +14,17 @@ PODS:
   - AFNetworking/Serialization (3.1.0)
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
+  - BuddyBuildSDK (1.0.7)
   - SpinKit (1.2.0)
 
 DEPENDENCIES:
   - AFNetworking
+  - BuddyBuildSDK
   - SpinKit
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  BuddyBuildSDK: c74a4e731b012368e336725d3221b8b934707171
   SpinKit: 65906a8b534a4e14cbfd3f8b0b6c329131faef4a
 
 COCOAPODS: 0.39.0

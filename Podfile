@@ -7,6 +7,7 @@ target 'WeatherApp' do
 
 pod 'AFNetworking'
 pod 'SpinKit'
+pod 'BuddyBuildSDK'
 end
 
 target 'WeatherAppTests' do

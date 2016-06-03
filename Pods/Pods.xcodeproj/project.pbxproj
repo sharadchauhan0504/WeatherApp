@@ -9,82 +9,82 @@
 /* Begin PBXBuildFile section */
 		00F09DB5E05D1208F27161E2F016FE36 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2B240D99C3FC6A7DC6C66A2434CA799 /* MobileCoreServices.framework */; };
 		022B549F10007177A43FAB1DD5114F7D /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A19DF616941A51576DD057A9FD8F4AD8 /* Security.framework */; };
-		0A08FC71C4E3B8E0F8734BCDA7CCA7CB /* AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C9B05E93FE34EEFC6CB042CECC26D4F /* AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0CC1082CE1A707E4B4565593F8904234 /* RTSpinKitChasingDotsAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 2696CE3CA32F761DED04394B013AAD8E /* RTSpinKitChasingDotsAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		1075FFF7C30DCCD30E510A3D67D42A96 /* RTSpinKit9CubeGridAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = A2ACBDB4AEB8CDC33A2D3EFF1FABE01E /* RTSpinKit9CubeGridAnimation.m */; };
-		107B52B6DD6EBFB4BD529278DBB99F73 /* RTSpinKitFadingCircleAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 65C16C4A991D06068DE19E61D0292247 /* RTSpinKitFadingCircleAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		1167183EA8CB9D30F559451DD8B97525 /* RTSpinKitCircleFlipAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = BCF099428A45B63721492FC6AD8A838B /* RTSpinKitCircleFlipAnimation.m */; };
-		148D960B21C8261DDE3A1081A4D83E72 /* RTSpinKitPulseAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = B4EC583E02536FBADB999196D00848F3 /* RTSpinKitPulseAnimation.m */; };
-		14CD3DFB4A25BAEFB205730FA6750025 /* AFAutoPurgingImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 14169C97E24C9793B9803336F2E78085 /* AFAutoPurgingImageCache.m */; };
-		15460ABD372C937E2A07A2FCDF98C473 /* UIActivityIndicatorView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = BE21A75F089D8E758CE37727D7F21A3C /* UIActivityIndicatorView+AFNetworking.m */; };
-		18BC56D81566D553CFAA82445F9CC984 /* RTSpinKitUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 7659AEBBB122E904E9FBE06E6A7E6F07 /* RTSpinKitUtils.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		19E6319F6ECED7539AABBD9A211F7AEC /* AFAutoPurgingImageCache.h in Headers */ = {isa = PBXBuildFile; fileRef = 12FE5A346E56550119FDB6FA700EAC75 /* AFAutoPurgingImageCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1B6A26A66AA3ED5039701B837A1B9A05 /* RTSpinKitArcAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = FB569941A4771610C56DA592611CF212 /* RTSpinKitArcAnimation.m */; };
-		1CF4E3B4BCAC819B020516022C8316C9 /* RTSpinKitWordPressAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 34006BF4C69E348A8039B0F8DE454947 /* RTSpinKitWordPressAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		1DD38E4C5744B7589870953EA13457AE /* RTSpinKit9CubeGridAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = A23C28E415AD82F1D26D974A9150ED05 /* RTSpinKit9CubeGridAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		0A08FC71C4E3B8E0F8734BCDA7CCA7CB /* AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 2B86E87E1E32F26788086DEBFBFF4BB7 /* AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0CC1082CE1A707E4B4565593F8904234 /* RTSpinKitChasingDotsAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = B5E317ED74DFA43B76E1B52FBEBD219D /* RTSpinKitChasingDotsAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		1075FFF7C30DCCD30E510A3D67D42A96 /* RTSpinKit9CubeGridAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 370FEC5240D82BD68E473E37EA8D4180 /* RTSpinKit9CubeGridAnimation.m */; };
+		107B52B6DD6EBFB4BD529278DBB99F73 /* RTSpinKitFadingCircleAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 40B1FECD5FC48155564BCD539EEE9E32 /* RTSpinKitFadingCircleAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		1167183EA8CB9D30F559451DD8B97525 /* RTSpinKitCircleFlipAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E3860BD56754CE588A8BA1948EABC4D /* RTSpinKitCircleFlipAnimation.m */; };
+		148D960B21C8261DDE3A1081A4D83E72 /* RTSpinKitPulseAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = EADEB2BD10766359E4E8A4D503BFFB0E /* RTSpinKitPulseAnimation.m */; };
+		14CD3DFB4A25BAEFB205730FA6750025 /* AFAutoPurgingImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = B4B71473DAF1655F81D93BC9A4A3370A /* AFAutoPurgingImageCache.m */; };
+		15460ABD372C937E2A07A2FCDF98C473 /* UIActivityIndicatorView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 5435D14F58944329C6CBE6B475B3060E /* UIActivityIndicatorView+AFNetworking.m */; };
+		18BC56D81566D553CFAA82445F9CC984 /* RTSpinKitUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = FE1E21C6D29F3D518C0A3E37273E5D7C /* RTSpinKitUtils.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		19E6319F6ECED7539AABBD9A211F7AEC /* AFAutoPurgingImageCache.h in Headers */ = {isa = PBXBuildFile; fileRef = 36F5712BF9FE0EFB25123B943D786FD1 /* AFAutoPurgingImageCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1B6A26A66AA3ED5039701B837A1B9A05 /* RTSpinKitArcAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 8778F0307BAF3447EF3ABC4DFFBC85A1 /* RTSpinKitArcAnimation.m */; };
+		1CF4E3B4BCAC819B020516022C8316C9 /* RTSpinKitWordPressAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 70712C634E677542743FF64EB914F82C /* RTSpinKitWordPressAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		1DD38E4C5744B7589870953EA13457AE /* RTSpinKit9CubeGridAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = F64DCC3A085E3102B466BE8D90A7B55A /* RTSpinKit9CubeGridAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		2053D71CF543C3A3CC47C5409D61923C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57F2B5E013FD1D42752E768761E043FC /* CoreGraphics.framework */; };
-		2151FDA923535D636F2059950C0F953B /* RTSpinKitCircleAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 23494868E4857FB2648DB37D6DCF52E6 /* RTSpinKitCircleAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		23415204AA48A02959E4E5245CF96037 /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = FE8A45655546396A80A50FB2584D2C79 /* AFHTTPSessionManager.m */; };
-		2359387620C5E815BF0594BC40311734 /* AFURLRequestSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 00754E68C4F76D582EC868EBE2668EE2 /* AFURLRequestSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		253ED9BEB20D50F8C3FDDD05AECDA29A /* RTSpinKitChasingDotsAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 81C98AFD273268E62FEF35A4C3EAE026 /* RTSpinKitChasingDotsAnimation.m */; };
-		26DE58F6D15AA20B54D7E5FDF60C7DF7 /* RTSpinKitPlaneAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = EFB2CAD993C592B707B3C337D5D51527 /* RTSpinKitPlaneAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		2A0A732B47FE7993D0DA6CB8F5DE9E42 /* SpinKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BF2F9C31D468C2BB815F87C6B14D0B86 /* SpinKit-dummy.m */; };
-		2B95AF6FE223B0868561AC57B841A3E8 /* RTSpinKitWanderingCubesAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 03F6269A0E14670507D0D97A016D90C9 /* RTSpinKitWanderingCubesAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		2E907DB29989143CEA36DBFF162CCAEE /* RTSpinKitArcAltAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 84DACFF877A0B983D58B0FF4C5C0562A /* RTSpinKitArcAltAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		311E5200832E4AE174A193851A2C6317 /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = 45796D9E6A9D72C1A15C245A2D0DAE43 /* AFSecurityPolicy.m */; };
-		326A543AD4E39A2DAECA1CD385E3AEA2 /* AFImageDownloader.h in Headers */ = {isa = PBXBuildFile; fileRef = 06EFCF5888A8F4995A14400A9AFAF8A5 /* AFImageDownloader.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		33D22C0F3E77B4D560B774CEA1AB55CA /* RTSpinKitView.m in Sources */ = {isa = PBXBuildFile; fileRef = CB73F7F37D2AA8E04523A5C7A4CA7032 /* RTSpinKitView.m */; };
-		3511AE7ADBB71D05565854F0E70B7D08 /* AFURLSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = DF1585D430EF843FE8EDCEB5DC1421F7 /* AFURLSessionManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2151FDA923535D636F2059950C0F953B /* RTSpinKitCircleAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = C2FD4E3BC866D3BD0DA895B98B8C6C79 /* RTSpinKitCircleAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		23415204AA48A02959E4E5245CF96037 /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FD4215F6BC5526FACB31BD89BE04B1C /* AFHTTPSessionManager.m */; };
+		2359387620C5E815BF0594BC40311734 /* AFURLRequestSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 07F8C7216C0E5D8C777DAEB3C96D3F4D /* AFURLRequestSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		253ED9BEB20D50F8C3FDDD05AECDA29A /* RTSpinKitChasingDotsAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = C0277CF47329AB0E3445069FCF7422AC /* RTSpinKitChasingDotsAnimation.m */; };
+		26DE58F6D15AA20B54D7E5FDF60C7DF7 /* RTSpinKitPlaneAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 7F185E12FF7247671108E4E4C56CF19B /* RTSpinKitPlaneAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		2A0A732B47FE7993D0DA6CB8F5DE9E42 /* SpinKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 59F07C2B633021114A19512C8A10F334 /* SpinKit-dummy.m */; };
+		2B95AF6FE223B0868561AC57B841A3E8 /* RTSpinKitWanderingCubesAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = E2ABF86AF649EE26116BAEE549DE6B41 /* RTSpinKitWanderingCubesAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		2E907DB29989143CEA36DBFF162CCAEE /* RTSpinKitArcAltAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = CA3CF5949E9CF5133113FB59BD8C2570 /* RTSpinKitArcAltAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		311E5200832E4AE174A193851A2C6317 /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = E001469B6795730BF4B093DF66390036 /* AFSecurityPolicy.m */; };
+		326A543AD4E39A2DAECA1CD385E3AEA2 /* AFImageDownloader.h in Headers */ = {isa = PBXBuildFile; fileRef = 19B8A0D9D9112167C881C5E76E35A2BD /* AFImageDownloader.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		33D22C0F3E77B4D560B774CEA1AB55CA /* RTSpinKitView.m in Sources */ = {isa = PBXBuildFile; fileRef = A02A1FCD1FD70EF3E112A927DC102418 /* RTSpinKitView.m */; };
+		3511AE7ADBB71D05565854F0E70B7D08 /* AFURLSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 5B7440E15BB07EC7195D4501FC03007A /* AFURLSessionManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		38C4008EB3F9DA3FF6166AD20C7EAF01 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C31A9B26388001B26382C7C355DA572 /* Foundation.framework */; };
-		38EEA9ED6B922946C54AD6BAC93B73AD /* UIProgressView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EDB3C93732606A04CD30C3D90A23E79 /* UIProgressView+AFNetworking.m */; };
-		3939531EB270B4145C7ADFBAB2E5695F /* AFNetworkActivityIndicatorManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 40CC0C5A9B42CFAADD1F9DFCEE24BA48 /* AFNetworkActivityIndicatorManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3C3F228EA46A26516BCF2303CC4575AE /* RTSpinKitFadingCircleAltAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = F82E7B0A94A701A077CF0A951975F597 /* RTSpinKitFadingCircleAltAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		43098B12DF5546CB576986E68DBCAFCA /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = EC196A343D35479F1E206A7C924A53C0 /* AFNetworkReachabilityManager.m */; };
-		4BA19F7DD8F9FDA648137B2CE89E7588 /* AFNetworkActivityIndicatorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 274C36878C7460D0AD7A77D7505614A9 /* AFNetworkActivityIndicatorManager.m */; };
-		5BD3A4EE8811C3CAF987CB4E0E267F1D /* RTSpinKitUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F811225D9F5114E91C3483A998A6661 /* RTSpinKitUtils.m */; };
-		5D52DB6DF2E6C24CECB0015A9177A2E1 /* UIProgressView+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 5DB8C1DFEE6B30177BF14190BD599044 /* UIProgressView+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		602588F17E5A44B70CAD42A9AA923509 /* RTSpinKitArcAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 01FC82647043BA218E86045388675B28 /* RTSpinKitArcAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		38EEA9ED6B922946C54AD6BAC93B73AD /* UIProgressView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 52B25AD6E4000EDD27549270FD2B3849 /* UIProgressView+AFNetworking.m */; };
+		3939531EB270B4145C7ADFBAB2E5695F /* AFNetworkActivityIndicatorManager.h in Headers */ = {isa = PBXBuildFile; fileRef = DC5EB24006915F75AB0F3E41074DB4E1 /* AFNetworkActivityIndicatorManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3C3F228EA46A26516BCF2303CC4575AE /* RTSpinKitFadingCircleAltAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = E4599C8C7470A341E1519F5235FFE941 /* RTSpinKitFadingCircleAltAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		43098B12DF5546CB576986E68DBCAFCA /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 63E651DA768FAC636188EB921EF96CC4 /* AFNetworkReachabilityManager.m */; };
+		4BA19F7DD8F9FDA648137B2CE89E7588 /* AFNetworkActivityIndicatorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BF6253D7F406BC796114B31DA519BD7 /* AFNetworkActivityIndicatorManager.m */; };
+		5BD3A4EE8811C3CAF987CB4E0E267F1D /* RTSpinKitUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F3930766B019347651331799D7E40E1 /* RTSpinKitUtils.m */; };
+		5D52DB6DF2E6C24CECB0015A9177A2E1 /* UIProgressView+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = BAF56F2B9310E92BC85314263C341AF4 /* UIProgressView+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		602588F17E5A44B70CAD42A9AA923509 /* RTSpinKitArcAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = E2664CAB7E7DD12EBBCD14AAD59993AE /* RTSpinKitArcAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		6083F51989A0009C740D92767F4DC1FC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C31A9B26388001B26382C7C355DA572 /* Foundation.framework */; };
-		61EADE6766041B29D87A64368F8E8969 /* RTSpinKitWanderingCubesAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 172F5A7DF989312945CA57D629361207 /* RTSpinKitWanderingCubesAnimation.m */; };
+		61EADE6766041B29D87A64368F8E8969 /* RTSpinKitWanderingCubesAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 683B14E4DF21106B0D9D1F00D6D66B8B /* RTSpinKitWanderingCubesAnimation.m */; };
 		67CB9231680D12F86EA0CB8BDE0A0493 /* Pods-WeatherApp-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B592DEE4E1A1F661D1E38CA1B80726D /* Pods-WeatherApp-dummy.m */; };
-		6EC97BDB3FC508526F9E388095A7DDCC /* UIImageView+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = C0880F8B3DBD9688E9E2D8C8B80E2321 /* UIImageView+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		787CB65891C5A8AA4ADA2BE905FFF7DA /* RTSpinKitArcAltAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = E8BAFEFA81726DCFBEFA578B34064F52 /* RTSpinKitArcAltAnimation.m */; };
-		78940A6980F359C4304C695EF6E67C5D /* UIButton+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 015C368E2EE0B84C4DC8A3D959D61B84 /* UIButton+AFNetworking.m */; };
-		7F0578A0258E02384F6229C678E60D31 /* UIRefreshControl+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 19CC0186CBC56638FC20F8A233C80159 /* UIRefreshControl+AFNetworking.m */; };
-		830050886B18F54E17F117FD8EFC717B /* UIActivityIndicatorView+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = E6FD7D266241C5E572D1B3FE02DCA15F /* UIActivityIndicatorView+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		85FAB6F1D2FE0598BF2E61D7BB084B8D /* UIKit+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = CFCC399EC92507B3F39CB51AC2443F2C /* UIKit+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8CD996141C459D482C6939E3E5E0EF50 /* RTSpinKitWaveAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 7EB150670F23989B651ECE6C5FAAFA77 /* RTSpinKitWaveAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		8E82178CC9BD8BE3DBF2C10E33807AEB /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 350BE844B594CCBAFD86483BDD85B63A /* AFURLRequestSerialization.m */; };
-		9051230ADD161610B72501DF4435887E /* RTSpinKitFadingCircleAltAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 386A3F61169AE742C80DA9A6A53AD7B5 /* RTSpinKitFadingCircleAltAnimation.m */; };
-		90B6DBA5762475F4F039B774E9E0C12B /* RTSpinKitThreeBounceAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 2367D0432DF8EC1F23ABE27CE5DBA218 /* RTSpinKitThreeBounceAnimation.m */; };
-		91EF393DE36746D54A813A8673D8D453 /* RTSpinKitCircleAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D6AEA60954B219EEE558F437644C60B /* RTSpinKitCircleAnimation.m */; };
+		6EC97BDB3FC508526F9E388095A7DDCC /* UIImageView+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = FB4AD337C9D809D8B5A8B993D92B521E /* UIImageView+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		787CB65891C5A8AA4ADA2BE905FFF7DA /* RTSpinKitArcAltAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 43252C372D9E3A6F3A5E7DFC0191153E /* RTSpinKitArcAltAnimation.m */; };
+		78940A6980F359C4304C695EF6E67C5D /* UIButton+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = B29D6B6F05BC754EE127A3A06EE62984 /* UIButton+AFNetworking.m */; };
+		7F0578A0258E02384F6229C678E60D31 /* UIRefreshControl+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B5CF8514B6210EEAE09A3E709B213BB /* UIRefreshControl+AFNetworking.m */; };
+		830050886B18F54E17F117FD8EFC717B /* UIActivityIndicatorView+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 8997F67C9263691EE29B95C7D9DB8A90 /* UIActivityIndicatorView+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		85FAB6F1D2FE0598BF2E61D7BB084B8D /* UIKit+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 205C4F6EDCD89821BE757D079D319057 /* UIKit+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8CD996141C459D482C6939E3E5E0EF50 /* RTSpinKitWaveAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D55CEFA63491BBC576E08EA250EB4B2 /* RTSpinKitWaveAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		8E82178CC9BD8BE3DBF2C10E33807AEB /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = D3FF7D05BEE630225D7D70BFAA242D21 /* AFURLRequestSerialization.m */; };
+		9051230ADD161610B72501DF4435887E /* RTSpinKitFadingCircleAltAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C05C46CDC5DFFC91470F2515CFB90EA /* RTSpinKitFadingCircleAltAnimation.m */; };
+		90B6DBA5762475F4F039B774E9E0C12B /* RTSpinKitThreeBounceAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = AF973F902846F89C1B9156DB942092F8 /* RTSpinKitThreeBounceAnimation.m */; };
+		91EF393DE36746D54A813A8673D8D453 /* RTSpinKitCircleAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EB455702A62EA5B943139D4882AC701 /* RTSpinKitCircleAnimation.m */; };
 		986C4ACB90E066BADE1F1407EFBABB7E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C31A9B26388001B26382C7C355DA572 /* Foundation.framework */; };
-		988CB44D683AEBD4C4C4CD849A72217A /* RTSpinKitBounceAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 0358D6332294828C4BA06E12E9907D48 /* RTSpinKitBounceAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		9AF2145C021564E576C5DA877D1FCEBE /* RTSpinKitFadingCircleAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 436F55AE36FD531A33E8A346A25BE986 /* RTSpinKitFadingCircleAnimation.m */; };
-		A60D0C95432A2A53CD34E64828FFEAB8 /* RTSpinKitBounceAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 563D403639D7712DEB0514908D404460 /* RTSpinKitBounceAnimation.m */; };
-		A8FC6A53F6C1CB4DEFD972664E1AF3B1 /* AFNetworking-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A4E79E37A054CC902DE14AA69819599D /* AFNetworking-dummy.m */; };
-		ACE9C1A6E8D5121C6C5F907C7A9CFCC9 /* UIRefreshControl+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 240B94EA316598269CF089E800EB052A /* UIRefreshControl+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		AD359A96DD4AA2C962E50A5CD5524F54 /* UIWebView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 6EA5E8782E2589D8E72877277EF23C5E /* UIWebView+AFNetworking.m */; };
-		ADE615D6BFD0C051B55B07BC24F7B933 /* RTSpinKitPlaneAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 65F5F969D2CB14AD7862138302EC8AEB /* RTSpinKitPlaneAnimation.m */; };
-		B0BE398350F83A7B0102C3BBAFC51428 /* UIImageView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = C5A72884ECA33A8DEFFFBB6A0B2928E9 /* UIImageView+AFNetworking.m */; };
-		B51AA1F7701DCDBCC9B88A15320F9C2C /* AFURLResponseSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 79BD7D64860A14C7CD487CC1AE2B2089 /* AFURLResponseSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B5CF67F7870BAB70A76E57479B706B42 /* UIWebView+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = EFDFB9C76BCF44565F487DB960D36D71 /* UIWebView+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C1B65C3D849FEE4FB5298A8135A765DA /* UIImage+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 250A9A0293174A4D5DC04C44CB38086F /* UIImage+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C2201E34603B014192F0967473518496 /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C52E95F93A9238E49F9EA3C6CDDAC6A /* AFURLResponseSerialization.m */; };
-		C89D96CD2C254806ACA987C636639D55 /* RTSpinKitThreeBounceAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 34680345FF123C9F7D4CC9309496F1BE /* RTSpinKitThreeBounceAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		988CB44D683AEBD4C4C4CD849A72217A /* RTSpinKitBounceAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 11596DF1583D519F9437CDD9B8851A0E /* RTSpinKitBounceAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		9AF2145C021564E576C5DA877D1FCEBE /* RTSpinKitFadingCircleAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = ED99F6DA0CD627DD4C5A71901BF4022F /* RTSpinKitFadingCircleAnimation.m */; };
+		A60D0C95432A2A53CD34E64828FFEAB8 /* RTSpinKitBounceAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = DB0A4C03E55D068559D4201CEB54F2B5 /* RTSpinKitBounceAnimation.m */; };
+		A8FC6A53F6C1CB4DEFD972664E1AF3B1 /* AFNetworking-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 82531F92659409500766EB23E1C5822D /* AFNetworking-dummy.m */; };
+		ACE9C1A6E8D5121C6C5F907C7A9CFCC9 /* UIRefreshControl+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D45CDF46BD1A3BB456584F7CF947B00 /* UIRefreshControl+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		AD359A96DD4AA2C962E50A5CD5524F54 /* UIWebView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 01157348C15195C9004771F84350624A /* UIWebView+AFNetworking.m */; };
+		ADE615D6BFD0C051B55B07BC24F7B933 /* RTSpinKitPlaneAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C12C79854ECC76F62A8473C6CFAA9AE /* RTSpinKitPlaneAnimation.m */; };
+		B0BE398350F83A7B0102C3BBAFC51428 /* UIImageView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C8F08194E3356833167BD78B5EAD38C /* UIImageView+AFNetworking.m */; };
+		B51AA1F7701DCDBCC9B88A15320F9C2C /* AFURLResponseSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = A0C50D51D86B89E3F17D73861D2BE366 /* AFURLResponseSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B5CF67F7870BAB70A76E57479B706B42 /* UIWebView+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = C208EE91305E2E1C90406972FCD71828 /* UIWebView+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C1B65C3D849FEE4FB5298A8135A765DA /* UIImage+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = F94013F6F66159A1402189262DF687B5 /* UIImage+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C2201E34603B014192F0967473518496 /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F4705A82F4510927CFD5BCE16B6ABF4 /* AFURLResponseSerialization.m */; };
+		C89D96CD2C254806ACA987C636639D55 /* RTSpinKitThreeBounceAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 43D0775BD01760A5982BE66F2F291E8B /* RTSpinKitThreeBounceAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		CE8965366A3B07A6C0615055A31B8B83 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C168D5DBDB78691493E24B13EF6B6A8 /* SystemConfiguration.framework */; };
-		D169AF4504B62DA702573D789CDF2996 /* RTSpinKitView.h in Headers */ = {isa = PBXBuildFile; fileRef = D1490EA729F4C71C1DB1AA99D15BDBEA /* RTSpinKitView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D31FEE51AF4BE2A6CC059F80B983CD3B /* AFImageDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 22FBF0F7AFBB14E8551AFE9E00890196 /* AFImageDownloader.m */; };
-		DAB8552FD589C8DAA84B3BFB1D25438B /* RTSpinKitCircleFlipAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = EAB8D26F496463CFB83787606AA26516 /* RTSpinKitCircleFlipAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		DFDAC8245626953C4BCE5A2DA6BE2A5B /* AFSecurityPolicy.h in Headers */ = {isa = PBXBuildFile; fileRef = 549CE9B008FC2D534C29657CFB0F6FCC /* AFSecurityPolicy.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E212C2AA95E8F6EFB69A5F1455F291F8 /* UIButton+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 2B1F75C39B1242008709D649594F7571 /* UIButton+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E3624D28C2F95BD46F5AE19C15F2F8CC /* RTSpinKitWaveAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = BA21496708182CA6C07F2C77CFD4C5A0 /* RTSpinKitWaveAnimation.m */; };
-		ED69D9B5A342FE9BD3F170D5CDDEC948 /* AFNetworkReachabilityManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 8EB85934135666C11ED9F79B471A8F84 /* AFNetworkReachabilityManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		EED953567ABC8F400D37DEBD2273CD59 /* RTSpinKitWordPressAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = A5643F01430A685034636F9BC19D80A9 /* RTSpinKitWordPressAnimation.m */; };
-		F3774B1449FCE5B3CA3E1B336E11D284 /* AFHTTPSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = A44AD49A7F9FEE40C43A338A8521BBB4 /* AFHTTPSessionManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F3D72FE3A4737B937306AE02077C46E4 /* RTSpinKitPulseAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = F8E4A1F330B4687A889795EA8722B0F6 /* RTSpinKitPulseAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		FCDDD3BC67EA205C87238A2A87D5C36C /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B0363C54F9D171B8B9CE1BA2B2100DF /* AFURLSessionManager.m */; };
-		FE1557250E491FD18A8CEA9781F119E3 /* RTSpinKitAnimating.h in Headers */ = {isa = PBXBuildFile; fileRef = 103BE076328A12292538B86500CB2B2D /* RTSpinKitAnimating.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		D169AF4504B62DA702573D789CDF2996 /* RTSpinKitView.h in Headers */ = {isa = PBXBuildFile; fileRef = 6C03B5C133FDDEEA1DCEE8F3EE1DB2A0 /* RTSpinKitView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D31FEE51AF4BE2A6CC059F80B983CD3B /* AFImageDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C0994CEAD39A0C1E3A1B4A626F5D26C /* AFImageDownloader.m */; };
+		DAB8552FD589C8DAA84B3BFB1D25438B /* RTSpinKitCircleFlipAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = C6AB95844576174F9753E1F0A3635146 /* RTSpinKitCircleFlipAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		DFDAC8245626953C4BCE5A2DA6BE2A5B /* AFSecurityPolicy.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C848A8FF48C1F181BADD4BEF9D7598A /* AFSecurityPolicy.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E212C2AA95E8F6EFB69A5F1455F291F8 /* UIButton+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = A108A19B730EA3418E874BDE0A35A5F0 /* UIButton+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E3624D28C2F95BD46F5AE19C15F2F8CC /* RTSpinKitWaveAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = BF53D71414D07608B10648DE3FF9DE02 /* RTSpinKitWaveAnimation.m */; };
+		ED69D9B5A342FE9BD3F170D5CDDEC948 /* AFNetworkReachabilityManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 266AD0DE694F66F19F90A6A1592AB0AF /* AFNetworkReachabilityManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EED953567ABC8F400D37DEBD2273CD59 /* RTSpinKitWordPressAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C83F0C254FAB63798187A22C07392C2 /* RTSpinKitWordPressAnimation.m */; };
+		F3774B1449FCE5B3CA3E1B336E11D284 /* AFHTTPSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = D6874792AC69339E86375AA7E53814C1 /* AFHTTPSessionManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F3D72FE3A4737B937306AE02077C46E4 /* RTSpinKitPulseAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 5091D7ED8FC605820411ED852E59A4C4 /* RTSpinKitPulseAnimation.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		FCDDD3BC67EA205C87238A2A87D5C36C /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C4BE4A641202894CF4E3563CEC99640 /* AFURLSessionManager.m */; };
+		FE1557250E491FD18A8CEA9781F119E3 /* RTSpinKitAnimating.h in Headers */ = {isa = PBXBuildFile; fileRef = 6D5B2458F449F5D10BB366BA48BB9EBF /* RTSpinKitAnimating.h */; settings = {ATTRIBUTES = (Project, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -105,96 +105,98 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00754E68C4F76D582EC868EBE2668EE2 /* AFURLRequestSerialization.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFURLRequestSerialization.h; path = AFNetworking/AFURLRequestSerialization.h; sourceTree = "<group>"; };
-		015C368E2EE0B84C4DC8A3D959D61B84 /* UIButton+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+AFNetworking.m"; path = "UIKit+AFNetworking/UIButton+AFNetworking.m"; sourceTree = "<group>"; };
-		01FC82647043BA218E86045388675B28 /* RTSpinKitArcAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitArcAnimation.h; path = SpinKit/Animations/RTSpinKitArcAnimation.h; sourceTree = "<group>"; };
-		0358D6332294828C4BA06E12E9907D48 /* RTSpinKitBounceAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitBounceAnimation.h; path = SpinKit/Animations/RTSpinKitBounceAnimation.h; sourceTree = "<group>"; };
-		03F6269A0E14670507D0D97A016D90C9 /* RTSpinKitWanderingCubesAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitWanderingCubesAnimation.h; path = SpinKit/Animations/RTSpinKitWanderingCubesAnimation.h; sourceTree = "<group>"; };
-		06EFCF5888A8F4995A14400A9AFAF8A5 /* AFImageDownloader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFImageDownloader.h; path = "UIKit+AFNetworking/AFImageDownloader.h"; sourceTree = "<group>"; };
+		01157348C15195C9004771F84350624A /* UIWebView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIWebView+AFNetworking.m"; path = "UIKit+AFNetworking/UIWebView+AFNetworking.m"; sourceTree = "<group>"; };
+		07F8C7216C0E5D8C777DAEB3C96D3F4D /* AFURLRequestSerialization.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFURLRequestSerialization.h; path = AFNetworking/AFURLRequestSerialization.h; sourceTree = "<group>"; };
 		0B592DEE4E1A1F661D1E38CA1B80726D /* Pods-WeatherApp-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WeatherApp-dummy.m"; sourceTree = "<group>"; };
-		103BE076328A12292538B86500CB2B2D /* RTSpinKitAnimating.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitAnimating.h; path = SpinKit/RTSpinKitAnimating.h; sourceTree = "<group>"; };
-		12FE5A346E56550119FDB6FA700EAC75 /* AFAutoPurgingImageCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFAutoPurgingImageCache.h; path = "UIKit+AFNetworking/AFAutoPurgingImageCache.h"; sourceTree = "<group>"; };
-		14169C97E24C9793B9803336F2E78085 /* AFAutoPurgingImageCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFAutoPurgingImageCache.m; path = "UIKit+AFNetworking/AFAutoPurgingImageCache.m"; sourceTree = "<group>"; };
-		172F5A7DF989312945CA57D629361207 /* RTSpinKitWanderingCubesAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitWanderingCubesAnimation.m; path = SpinKit/Animations/RTSpinKitWanderingCubesAnimation.m; sourceTree = "<group>"; };
-		19CC0186CBC56638FC20F8A233C80159 /* UIRefreshControl+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIRefreshControl+AFNetworking.m"; path = "UIKit+AFNetworking/UIRefreshControl+AFNetworking.m"; sourceTree = "<group>"; };
+		0C05C46CDC5DFFC91470F2515CFB90EA /* RTSpinKitFadingCircleAltAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitFadingCircleAltAnimation.m; path = SpinKit/Animations/RTSpinKitFadingCircleAltAnimation.m; sourceTree = "<group>"; };
+		0D45CDF46BD1A3BB456584F7CF947B00 /* UIRefreshControl+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIRefreshControl+AFNetworking.h"; path = "UIKit+AFNetworking/UIRefreshControl+AFNetworking.h"; sourceTree = "<group>"; };
+		0D55CEFA63491BBC576E08EA250EB4B2 /* RTSpinKitWaveAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitWaveAnimation.h; path = SpinKit/Animations/RTSpinKitWaveAnimation.h; sourceTree = "<group>"; };
+		11596DF1583D519F9437CDD9B8851A0E /* RTSpinKitBounceAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitBounceAnimation.h; path = SpinKit/Animations/RTSpinKitBounceAnimation.h; sourceTree = "<group>"; };
+		19B8A0D9D9112167C881C5E76E35A2BD /* AFImageDownloader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFImageDownloader.h; path = "UIKit+AFNetworking/AFImageDownloader.h"; sourceTree = "<group>"; };
 		1BAA297284120DAA2C4FCDF545AEBA89 /* libSpinKit.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libSpinKit.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		22FBF0F7AFBB14E8551AFE9E00890196 /* AFImageDownloader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFImageDownloader.m; path = "UIKit+AFNetworking/AFImageDownloader.m"; sourceTree = "<group>"; };
-		23494868E4857FB2648DB37D6DCF52E6 /* RTSpinKitCircleAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitCircleAnimation.h; path = SpinKit/Animations/RTSpinKitCircleAnimation.h; sourceTree = "<group>"; };
-		2367D0432DF8EC1F23ABE27CE5DBA218 /* RTSpinKitThreeBounceAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitThreeBounceAnimation.m; path = SpinKit/Animations/RTSpinKitThreeBounceAnimation.m; sourceTree = "<group>"; };
-		240B94EA316598269CF089E800EB052A /* UIRefreshControl+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIRefreshControl+AFNetworking.h"; path = "UIKit+AFNetworking/UIRefreshControl+AFNetworking.h"; sourceTree = "<group>"; };
-		250A9A0293174A4D5DC04C44CB38086F /* UIImage+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+AFNetworking.h"; path = "UIKit+AFNetworking/UIImage+AFNetworking.h"; sourceTree = "<group>"; };
-		2696CE3CA32F761DED04394B013AAD8E /* RTSpinKitChasingDotsAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitChasingDotsAnimation.h; path = SpinKit/Animations/RTSpinKitChasingDotsAnimation.h; sourceTree = "<group>"; };
-		274C36878C7460D0AD7A77D7505614A9 /* AFNetworkActivityIndicatorManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFNetworkActivityIndicatorManager.m; path = "UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m"; sourceTree = "<group>"; };
-		2B1F75C39B1242008709D649594F7571 /* UIButton+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+AFNetworking.h"; path = "UIKit+AFNetworking/UIButton+AFNetworking.h"; sourceTree = "<group>"; };
-		2C9B05E93FE34EEFC6CB042CECC26D4F /* AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFNetworking.h; path = AFNetworking/AFNetworking.h; sourceTree = "<group>"; };
-		34006BF4C69E348A8039B0F8DE454947 /* RTSpinKitWordPressAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitWordPressAnimation.h; path = SpinKit/Animations/RTSpinKitWordPressAnimation.h; sourceTree = "<group>"; };
-		34680345FF123C9F7D4CC9309496F1BE /* RTSpinKitThreeBounceAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitThreeBounceAnimation.h; path = SpinKit/Animations/RTSpinKitThreeBounceAnimation.h; sourceTree = "<group>"; };
-		350BE844B594CCBAFD86483BDD85B63A /* AFURLRequestSerialization.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLRequestSerialization.m; path = AFNetworking/AFURLRequestSerialization.m; sourceTree = "<group>"; };
-		386A3F61169AE742C80DA9A6A53AD7B5 /* RTSpinKitFadingCircleAltAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitFadingCircleAltAnimation.m; path = SpinKit/Animations/RTSpinKitFadingCircleAltAnimation.m; sourceTree = "<group>"; };
+		1FD4215F6BC5526FACB31BD89BE04B1C /* AFHTTPSessionManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFHTTPSessionManager.m; path = AFNetworking/AFHTTPSessionManager.m; sourceTree = "<group>"; };
+		205C4F6EDCD89821BE757D079D319057 /* UIKit+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIKit+AFNetworking.h"; path = "UIKit+AFNetworking/UIKit+AFNetworking.h"; sourceTree = "<group>"; };
+		266AD0DE694F66F19F90A6A1592AB0AF /* AFNetworkReachabilityManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFNetworkReachabilityManager.h; path = AFNetworking/AFNetworkReachabilityManager.h; sourceTree = "<group>"; };
+		2B5CF8514B6210EEAE09A3E709B213BB /* UIRefreshControl+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIRefreshControl+AFNetworking.m"; path = "UIKit+AFNetworking/UIRefreshControl+AFNetworking.m"; sourceTree = "<group>"; };
+		2B86E87E1E32F26788086DEBFBFF4BB7 /* AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFNetworking.h; path = AFNetworking/AFNetworking.h; sourceTree = "<group>"; };
+		2C12C79854ECC76F62A8473C6CFAA9AE /* RTSpinKitPlaneAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitPlaneAnimation.m; path = SpinKit/Animations/RTSpinKitPlaneAnimation.m; sourceTree = "<group>"; };
+		36F5712BF9FE0EFB25123B943D786FD1 /* AFAutoPurgingImageCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFAutoPurgingImageCache.h; path = "UIKit+AFNetworking/AFAutoPurgingImageCache.h"; sourceTree = "<group>"; };
+		370FEC5240D82BD68E473E37EA8D4180 /* RTSpinKit9CubeGridAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKit9CubeGridAnimation.m; path = SpinKit/Animations/RTSpinKit9CubeGridAnimation.m; sourceTree = "<group>"; };
+		3A0DCCF3D11684E7B456C3DBF7104CF6 /* AFNetworking.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AFNetworking.xcconfig; sourceTree = "<group>"; };
 		3BBF3A7F930B97BCCA13E7C22CA87AC1 /* libPods-WeatherApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WeatherApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		40CC0C5A9B42CFAADD1F9DFCEE24BA48 /* AFNetworkActivityIndicatorManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFNetworkActivityIndicatorManager.h; path = "UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h"; sourceTree = "<group>"; };
-		436F55AE36FD531A33E8A346A25BE986 /* RTSpinKitFadingCircleAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitFadingCircleAnimation.m; path = SpinKit/Animations/RTSpinKitFadingCircleAnimation.m; sourceTree = "<group>"; };
-		45796D9E6A9D72C1A15C245A2D0DAE43 /* AFSecurityPolicy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFSecurityPolicy.m; path = AFNetworking/AFSecurityPolicy.m; sourceTree = "<group>"; };
-		549CE9B008FC2D534C29657CFB0F6FCC /* AFSecurityPolicy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFSecurityPolicy.h; path = AFNetworking/AFSecurityPolicy.h; sourceTree = "<group>"; };
-		563D403639D7712DEB0514908D404460 /* RTSpinKitBounceAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitBounceAnimation.m; path = SpinKit/Animations/RTSpinKitBounceAnimation.m; sourceTree = "<group>"; };
+		40B1FECD5FC48155564BCD539EEE9E32 /* RTSpinKitFadingCircleAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitFadingCircleAnimation.h; path = SpinKit/Animations/RTSpinKitFadingCircleAnimation.h; sourceTree = "<group>"; };
+		43252C372D9E3A6F3A5E7DFC0191153E /* RTSpinKitArcAltAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitArcAltAnimation.m; path = SpinKit/Animations/RTSpinKitArcAltAnimation.m; sourceTree = "<group>"; };
+		43D0775BD01760A5982BE66F2F291E8B /* RTSpinKitThreeBounceAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitThreeBounceAnimation.h; path = SpinKit/Animations/RTSpinKitThreeBounceAnimation.h; sourceTree = "<group>"; };
+		5091D7ED8FC605820411ED852E59A4C4 /* RTSpinKitPulseAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitPulseAnimation.h; path = SpinKit/Animations/RTSpinKitPulseAnimation.h; sourceTree = "<group>"; };
+		52B25AD6E4000EDD27549270FD2B3849 /* UIProgressView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIProgressView+AFNetworking.m"; path = "UIKit+AFNetworking/UIProgressView+AFNetworking.m"; sourceTree = "<group>"; };
+		5435D14F58944329C6CBE6B475B3060E /* UIActivityIndicatorView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIActivityIndicatorView+AFNetworking.m"; path = "UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m"; sourceTree = "<group>"; };
 		57F2B5E013FD1D42752E768761E043FC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/CoreGraphics.framework; sourceTree = DEVELOPER_DIR; };
-		5DB8C1DFEE6B30177BF14190BD599044 /* UIProgressView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIProgressView+AFNetworking.h"; path = "UIKit+AFNetworking/UIProgressView+AFNetworking.h"; sourceTree = "<group>"; };
+		59F07C2B633021114A19512C8A10F334 /* SpinKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SpinKit-dummy.m"; sourceTree = "<group>"; };
+		5B7440E15BB07EC7195D4501FC03007A /* AFURLSessionManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFURLSessionManager.h; path = AFNetworking/AFURLSessionManager.h; sourceTree = "<group>"; };
 		5E0B7523F356F74C9B327234378D198D /* libAFNetworking.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libAFNetworking.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		5EDB3C93732606A04CD30C3D90A23E79 /* UIProgressView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIProgressView+AFNetworking.m"; path = "UIKit+AFNetworking/UIProgressView+AFNetworking.m"; sourceTree = "<group>"; };
-		65C16C4A991D06068DE19E61D0292247 /* RTSpinKitFadingCircleAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitFadingCircleAnimation.h; path = SpinKit/Animations/RTSpinKitFadingCircleAnimation.h; sourceTree = "<group>"; };
-		65F5F969D2CB14AD7862138302EC8AEB /* RTSpinKitPlaneAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitPlaneAnimation.m; path = SpinKit/Animations/RTSpinKitPlaneAnimation.m; sourceTree = "<group>"; };
+		5E3860BD56754CE588A8BA1948EABC4D /* RTSpinKitCircleFlipAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitCircleFlipAnimation.m; path = SpinKit/Animations/RTSpinKitCircleFlipAnimation.m; sourceTree = "<group>"; };
+		5F3930766B019347651331799D7E40E1 /* RTSpinKitUtils.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitUtils.m; path = SpinKit/RTSpinKitUtils.m; sourceTree = "<group>"; };
+		5F4705A82F4510927CFD5BCE16B6ABF4 /* AFURLResponseSerialization.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLResponseSerialization.m; path = AFNetworking/AFURLResponseSerialization.m; sourceTree = "<group>"; };
+		63E651DA768FAC636188EB921EF96CC4 /* AFNetworkReachabilityManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFNetworkReachabilityManager.m; path = AFNetworking/AFNetworkReachabilityManager.m; sourceTree = "<group>"; };
 		66DD853DD477D7EAB4C5DD319DE2E976 /* Pods-WeatherApp-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WeatherApp-acknowledgements.plist"; sourceTree = "<group>"; };
-		696A92803D0DBF1FF30F2E1D3941BA08 /* SpinKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SpinKit.xcconfig; sourceTree = "<group>"; };
-		69C1FB1A6F7215E127D582F7D63C3D5A /* AFNetworking-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AFNetworking-prefix.pch"; sourceTree = "<group>"; };
-		6AFE481219D9A7B6A2A5EEDC870CF659 /* SpinKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SpinKit-prefix.pch"; sourceTree = "<group>"; };
-		6B0363C54F9D171B8B9CE1BA2B2100DF /* AFURLSessionManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLSessionManager.m; path = AFNetworking/AFURLSessionManager.m; sourceTree = "<group>"; };
-		6EA5E8782E2589D8E72877277EF23C5E /* UIWebView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIWebView+AFNetworking.m"; path = "UIKit+AFNetworking/UIWebView+AFNetworking.m"; sourceTree = "<group>"; };
-		7659AEBBB122E904E9FBE06E6A7E6F07 /* RTSpinKitUtils.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitUtils.h; path = SpinKit/RTSpinKitUtils.h; sourceTree = "<group>"; };
-		79BD7D64860A14C7CD487CC1AE2B2089 /* AFURLResponseSerialization.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFURLResponseSerialization.h; path = AFNetworking/AFURLResponseSerialization.h; sourceTree = "<group>"; };
+		683B14E4DF21106B0D9D1F00D6D66B8B /* RTSpinKitWanderingCubesAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitWanderingCubesAnimation.m; path = SpinKit/Animations/RTSpinKitWanderingCubesAnimation.m; sourceTree = "<group>"; };
+		6BF6253D7F406BC796114B31DA519BD7 /* AFNetworkActivityIndicatorManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFNetworkActivityIndicatorManager.m; path = "UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m"; sourceTree = "<group>"; };
+		6C03B5C133FDDEEA1DCEE8F3EE1DB2A0 /* RTSpinKitView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitView.h; path = SpinKit/RTSpinKitView.h; sourceTree = "<group>"; };
+		6C83F0C254FAB63798187A22C07392C2 /* RTSpinKitWordPressAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitWordPressAnimation.m; path = SpinKit/Animations/RTSpinKitWordPressAnimation.m; sourceTree = "<group>"; };
+		6D5B2458F449F5D10BB366BA48BB9EBF /* RTSpinKitAnimating.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitAnimating.h; path = SpinKit/RTSpinKitAnimating.h; sourceTree = "<group>"; };
+		70712C634E677542743FF64EB914F82C /* RTSpinKitWordPressAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitWordPressAnimation.h; path = SpinKit/Animations/RTSpinKitWordPressAnimation.h; sourceTree = "<group>"; };
+		7426B0E20A363EC9B314EE72987B63DD /* SpinKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SpinKit.xcconfig; sourceTree = "<group>"; };
 		7C168D5DBDB78691493E24B13EF6B6A8 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/SystemConfiguration.framework; sourceTree = DEVELOPER_DIR; };
-		7EB150670F23989B651ECE6C5FAAFA77 /* RTSpinKitWaveAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitWaveAnimation.h; path = SpinKit/Animations/RTSpinKitWaveAnimation.h; sourceTree = "<group>"; };
-		81C98AFD273268E62FEF35A4C3EAE026 /* RTSpinKitChasingDotsAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitChasingDotsAnimation.m; path = SpinKit/Animations/RTSpinKitChasingDotsAnimation.m; sourceTree = "<group>"; };
-		84DACFF877A0B983D58B0FF4C5C0562A /* RTSpinKitArcAltAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitArcAltAnimation.h; path = SpinKit/Animations/RTSpinKitArcAltAnimation.h; sourceTree = "<group>"; };
-		8C52E95F93A9238E49F9EA3C6CDDAC6A /* AFURLResponseSerialization.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLResponseSerialization.m; path = AFNetworking/AFURLResponseSerialization.m; sourceTree = "<group>"; };
+		7C848A8FF48C1F181BADD4BEF9D7598A /* AFSecurityPolicy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFSecurityPolicy.h; path = AFNetworking/AFSecurityPolicy.h; sourceTree = "<group>"; };
+		7EB455702A62EA5B943139D4882AC701 /* RTSpinKitCircleAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitCircleAnimation.m; path = SpinKit/Animations/RTSpinKitCircleAnimation.m; sourceTree = "<group>"; };
+		7F185E12FF7247671108E4E4C56CF19B /* RTSpinKitPlaneAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitPlaneAnimation.h; path = SpinKit/Animations/RTSpinKitPlaneAnimation.h; sourceTree = "<group>"; };
+		82531F92659409500766EB23E1C5822D /* AFNetworking-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AFNetworking-dummy.m"; sourceTree = "<group>"; };
+		8778F0307BAF3447EF3ABC4DFFBC85A1 /* RTSpinKitArcAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitArcAnimation.m; path = SpinKit/Animations/RTSpinKitArcAnimation.m; sourceTree = "<group>"; };
+		8997F67C9263691EE29B95C7D9DB8A90 /* UIActivityIndicatorView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIActivityIndicatorView+AFNetworking.h"; path = "UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h"; sourceTree = "<group>"; };
 		8DC5A37D6A59DB972599B07B01A0A0DA /* Pods-WeatherApp-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WeatherApp-frameworks.sh"; sourceTree = "<group>"; };
-		8EB85934135666C11ED9F79B471A8F84 /* AFNetworkReachabilityManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFNetworkReachabilityManager.h; path = AFNetworking/AFNetworkReachabilityManager.h; sourceTree = "<group>"; };
 		935FD52B904F81E71142920B897766DA /* Pods-WeatherApp-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WeatherApp-resources.sh"; sourceTree = "<group>"; };
+		9C0994CEAD39A0C1E3A1B4A626F5D26C /* AFImageDownloader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFImageDownloader.m; path = "UIKit+AFNetworking/AFImageDownloader.m"; sourceTree = "<group>"; };
 		9C31A9B26388001B26382C7C355DA572 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		9D6AEA60954B219EEE558F437644C60B /* RTSpinKitCircleAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitCircleAnimation.m; path = SpinKit/Animations/RTSpinKitCircleAnimation.m; sourceTree = "<group>"; };
-		9F811225D9F5114E91C3483A998A6661 /* RTSpinKitUtils.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitUtils.m; path = SpinKit/RTSpinKitUtils.m; sourceTree = "<group>"; };
+		9C4BE4A641202894CF4E3563CEC99640 /* AFURLSessionManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLSessionManager.m; path = AFNetworking/AFURLSessionManager.m; sourceTree = "<group>"; };
+		9C8F08194E3356833167BD78B5EAD38C /* UIImageView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+AFNetworking.m"; path = "UIKit+AFNetworking/UIImageView+AFNetworking.m"; sourceTree = "<group>"; };
+		9E05A6596374A20F82F7C231C53597C5 /* BuddyBuildSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = BuddyBuildSDK.framework; sourceTree = "<group>"; };
+		A02A1FCD1FD70EF3E112A927DC102418 /* RTSpinKitView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitView.m; path = SpinKit/RTSpinKitView.m; sourceTree = "<group>"; };
+		A0C50D51D86B89E3F17D73861D2BE366 /* AFURLResponseSerialization.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFURLResponseSerialization.h; path = AFNetworking/AFURLResponseSerialization.h; sourceTree = "<group>"; };
+		A108A19B730EA3418E874BDE0A35A5F0 /* UIButton+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+AFNetworking.h"; path = "UIKit+AFNetworking/UIButton+AFNetworking.h"; sourceTree = "<group>"; };
 		A19DF616941A51576DD057A9FD8F4AD8 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/Security.framework; sourceTree = DEVELOPER_DIR; };
-		A23C28E415AD82F1D26D974A9150ED05 /* RTSpinKit9CubeGridAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKit9CubeGridAnimation.h; path = SpinKit/Animations/RTSpinKit9CubeGridAnimation.h; sourceTree = "<group>"; };
-		A2ACBDB4AEB8CDC33A2D3EFF1FABE01E /* RTSpinKit9CubeGridAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKit9CubeGridAnimation.m; path = SpinKit/Animations/RTSpinKit9CubeGridAnimation.m; sourceTree = "<group>"; };
-		A44AD49A7F9FEE40C43A338A8521BBB4 /* AFHTTPSessionManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFHTTPSessionManager.h; path = AFNetworking/AFHTTPSessionManager.h; sourceTree = "<group>"; };
-		A4E79E37A054CC902DE14AA69819599D /* AFNetworking-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AFNetworking-dummy.m"; sourceTree = "<group>"; };
-		A5643F01430A685034636F9BC19D80A9 /* RTSpinKitWordPressAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitWordPressAnimation.m; path = SpinKit/Animations/RTSpinKitWordPressAnimation.m; sourceTree = "<group>"; };
-		A9EA22B1E01CCA26F282121DBF846EA8 /* AFNetworking.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AFNetworking.xcconfig; sourceTree = "<group>"; };
+		AB5F1A17DE241E895F45885351818AEC /* AFNetworking-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AFNetworking-prefix.pch"; sourceTree = "<group>"; };
 		AF1394C6121A72850509CD03A6EAA7B7 /* Pods-WeatherApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WeatherApp.debug.xcconfig"; sourceTree = "<group>"; };
-		B4EC583E02536FBADB999196D00848F3 /* RTSpinKitPulseAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitPulseAnimation.m; path = SpinKit/Animations/RTSpinKitPulseAnimation.m; sourceTree = "<group>"; };
-		BA21496708182CA6C07F2C77CFD4C5A0 /* RTSpinKitWaveAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitWaveAnimation.m; path = SpinKit/Animations/RTSpinKitWaveAnimation.m; sourceTree = "<group>"; };
+		AF973F902846F89C1B9156DB942092F8 /* RTSpinKitThreeBounceAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitThreeBounceAnimation.m; path = SpinKit/Animations/RTSpinKitThreeBounceAnimation.m; sourceTree = "<group>"; };
+		B0CFCEFC42205522A18F2BE0ABC8C738 /* SpinKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SpinKit-prefix.pch"; sourceTree = "<group>"; };
+		B29D6B6F05BC754EE127A3A06EE62984 /* UIButton+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+AFNetworking.m"; path = "UIKit+AFNetworking/UIButton+AFNetworking.m"; sourceTree = "<group>"; };
+		B4B71473DAF1655F81D93BC9A4A3370A /* AFAutoPurgingImageCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFAutoPurgingImageCache.m; path = "UIKit+AFNetworking/AFAutoPurgingImageCache.m"; sourceTree = "<group>"; };
+		B5E317ED74DFA43B76E1B52FBEBD219D /* RTSpinKitChasingDotsAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitChasingDotsAnimation.h; path = SpinKit/Animations/RTSpinKitChasingDotsAnimation.h; sourceTree = "<group>"; };
 		BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		BAF56F2B9310E92BC85314263C341AF4 /* UIProgressView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIProgressView+AFNetworking.h"; path = "UIKit+AFNetworking/UIProgressView+AFNetworking.h"; sourceTree = "<group>"; };
 		BBED2EE7D12C021AB284D43E2F7CEF33 /* Pods-WeatherApp-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WeatherApp-acknowledgements.markdown"; sourceTree = "<group>"; };
-		BCF099428A45B63721492FC6AD8A838B /* RTSpinKitCircleFlipAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitCircleFlipAnimation.m; path = SpinKit/Animations/RTSpinKitCircleFlipAnimation.m; sourceTree = "<group>"; };
-		BE21A75F089D8E758CE37727D7F21A3C /* UIActivityIndicatorView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIActivityIndicatorView+AFNetworking.m"; path = "UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m"; sourceTree = "<group>"; };
-		BF2F9C31D468C2BB815F87C6B14D0B86 /* SpinKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SpinKit-dummy.m"; sourceTree = "<group>"; };
-		C0880F8B3DBD9688E9E2D8C8B80E2321 /* UIImageView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+AFNetworking.h"; path = "UIKit+AFNetworking/UIImageView+AFNetworking.h"; sourceTree = "<group>"; };
+		BF53D71414D07608B10648DE3FF9DE02 /* RTSpinKitWaveAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitWaveAnimation.m; path = SpinKit/Animations/RTSpinKitWaveAnimation.m; sourceTree = "<group>"; };
+		C0277CF47329AB0E3445069FCF7422AC /* RTSpinKitChasingDotsAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitChasingDotsAnimation.m; path = SpinKit/Animations/RTSpinKitChasingDotsAnimation.m; sourceTree = "<group>"; };
+		C208EE91305E2E1C90406972FCD71828 /* UIWebView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIWebView+AFNetworking.h"; path = "UIKit+AFNetworking/UIWebView+AFNetworking.h"; sourceTree = "<group>"; };
 		C2B240D99C3FC6A7DC6C66A2434CA799 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/MobileCoreServices.framework; sourceTree = DEVELOPER_DIR; };
-		C5A72884ECA33A8DEFFFBB6A0B2928E9 /* UIImageView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+AFNetworking.m"; path = "UIKit+AFNetworking/UIImageView+AFNetworking.m"; sourceTree = "<group>"; };
-		CB73F7F37D2AA8E04523A5C7A4CA7032 /* RTSpinKitView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitView.m; path = SpinKit/RTSpinKitView.m; sourceTree = "<group>"; };
-		CFCC399EC92507B3F39CB51AC2443F2C /* UIKit+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIKit+AFNetworking.h"; path = "UIKit+AFNetworking/UIKit+AFNetworking.h"; sourceTree = "<group>"; };
-		D1490EA729F4C71C1DB1AA99D15BDBEA /* RTSpinKitView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitView.h; path = SpinKit/RTSpinKitView.h; sourceTree = "<group>"; };
-		DF1585D430EF843FE8EDCEB5DC1421F7 /* AFURLSessionManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFURLSessionManager.h; path = AFNetworking/AFURLSessionManager.h; sourceTree = "<group>"; };
-		E6FD7D266241C5E572D1B3FE02DCA15F /* UIActivityIndicatorView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIActivityIndicatorView+AFNetworking.h"; path = "UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h"; sourceTree = "<group>"; };
-		E8BAFEFA81726DCFBEFA578B34064F52 /* RTSpinKitArcAltAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitArcAltAnimation.m; path = SpinKit/Animations/RTSpinKitArcAltAnimation.m; sourceTree = "<group>"; };
-		EAB8D26F496463CFB83787606AA26516 /* RTSpinKitCircleFlipAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitCircleFlipAnimation.h; path = SpinKit/Animations/RTSpinKitCircleFlipAnimation.h; sourceTree = "<group>"; };
-		EC196A343D35479F1E206A7C924A53C0 /* AFNetworkReachabilityManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFNetworkReachabilityManager.m; path = AFNetworking/AFNetworkReachabilityManager.m; sourceTree = "<group>"; };
-		EFB2CAD993C592B707B3C337D5D51527 /* RTSpinKitPlaneAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitPlaneAnimation.h; path = SpinKit/Animations/RTSpinKitPlaneAnimation.h; sourceTree = "<group>"; };
-		EFDFB9C76BCF44565F487DB960D36D71 /* UIWebView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIWebView+AFNetworking.h"; path = "UIKit+AFNetworking/UIWebView+AFNetworking.h"; sourceTree = "<group>"; };
-		F82E7B0A94A701A077CF0A951975F597 /* RTSpinKitFadingCircleAltAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitFadingCircleAltAnimation.h; path = SpinKit/Animations/RTSpinKitFadingCircleAltAnimation.h; sourceTree = "<group>"; };
+		C2FD4E3BC866D3BD0DA895B98B8C6C79 /* RTSpinKitCircleAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitCircleAnimation.h; path = SpinKit/Animations/RTSpinKitCircleAnimation.h; sourceTree = "<group>"; };
+		C6AB95844576174F9753E1F0A3635146 /* RTSpinKitCircleFlipAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitCircleFlipAnimation.h; path = SpinKit/Animations/RTSpinKitCircleFlipAnimation.h; sourceTree = "<group>"; };
+		CA3CF5949E9CF5133113FB59BD8C2570 /* RTSpinKitArcAltAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitArcAltAnimation.h; path = SpinKit/Animations/RTSpinKitArcAltAnimation.h; sourceTree = "<group>"; };
+		D3FF7D05BEE630225D7D70BFAA242D21 /* AFURLRequestSerialization.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLRequestSerialization.m; path = AFNetworking/AFURLRequestSerialization.m; sourceTree = "<group>"; };
+		D6874792AC69339E86375AA7E53814C1 /* AFHTTPSessionManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFHTTPSessionManager.h; path = AFNetworking/AFHTTPSessionManager.h; sourceTree = "<group>"; };
+		DB0A4C03E55D068559D4201CEB54F2B5 /* RTSpinKitBounceAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitBounceAnimation.m; path = SpinKit/Animations/RTSpinKitBounceAnimation.m; sourceTree = "<group>"; };
+		DC5EB24006915F75AB0F3E41074DB4E1 /* AFNetworkActivityIndicatorManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFNetworkActivityIndicatorManager.h; path = "UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h"; sourceTree = "<group>"; };
+		E001469B6795730BF4B093DF66390036 /* AFSecurityPolicy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFSecurityPolicy.m; path = AFNetworking/AFSecurityPolicy.m; sourceTree = "<group>"; };
+		E2664CAB7E7DD12EBBCD14AAD59993AE /* RTSpinKitArcAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitArcAnimation.h; path = SpinKit/Animations/RTSpinKitArcAnimation.h; sourceTree = "<group>"; };
+		E2ABF86AF649EE26116BAEE549DE6B41 /* RTSpinKitWanderingCubesAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitWanderingCubesAnimation.h; path = SpinKit/Animations/RTSpinKitWanderingCubesAnimation.h; sourceTree = "<group>"; };
+		E4599C8C7470A341E1519F5235FFE941 /* RTSpinKitFadingCircleAltAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitFadingCircleAltAnimation.h; path = SpinKit/Animations/RTSpinKitFadingCircleAltAnimation.h; sourceTree = "<group>"; };
+		E56B497A3B6CCBF26C4D76F5077E8787 /* BuddyBuildSDK.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BuddyBuildSDK.h; path = BuddyBuildSDK.framework/Headers/BuddyBuildSDK.h; sourceTree = "<group>"; };
+		EADEB2BD10766359E4E8A4D503BFFB0E /* RTSpinKitPulseAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitPulseAnimation.m; path = SpinKit/Animations/RTSpinKitPulseAnimation.m; sourceTree = "<group>"; };
+		ED99F6DA0CD627DD4C5A71901BF4022F /* RTSpinKitFadingCircleAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitFadingCircleAnimation.m; path = SpinKit/Animations/RTSpinKitFadingCircleAnimation.m; sourceTree = "<group>"; };
+		F64DCC3A085E3102B466BE8D90A7B55A /* RTSpinKit9CubeGridAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKit9CubeGridAnimation.h; path = SpinKit/Animations/RTSpinKit9CubeGridAnimation.h; sourceTree = "<group>"; };
 		F898A82D8DAE367C1BBCA9981135CCE8 /* Pods-WeatherApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WeatherApp.release.xcconfig"; sourceTree = "<group>"; };
-		F8E4A1F330B4687A889795EA8722B0F6 /* RTSpinKitPulseAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitPulseAnimation.h; path = SpinKit/Animations/RTSpinKitPulseAnimation.h; sourceTree = "<group>"; };
-		FB569941A4771610C56DA592611CF212 /* RTSpinKitArcAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RTSpinKitArcAnimation.m; path = SpinKit/Animations/RTSpinKitArcAnimation.m; sourceTree = "<group>"; };
-		FE8A45655546396A80A50FB2584D2C79 /* AFHTTPSessionManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFHTTPSessionManager.m; path = AFNetworking/AFHTTPSessionManager.m; sourceTree = "<group>"; };
+		F94013F6F66159A1402189262DF687B5 /* UIImage+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+AFNetworking.h"; path = "UIKit+AFNetworking/UIImage+AFNetworking.h"; sourceTree = "<group>"; };
+		FB4AD337C9D809D8B5A8B993D92B521E /* UIImageView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+AFNetworking.h"; path = "UIKit+AFNetworking/UIImageView+AFNetworking.h"; sourceTree = "<group>"; };
+		FE1E21C6D29F3D518C0A3E37273E5D7C /* RTSpinKitUtils.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTSpinKitUtils.h; path = SpinKit/RTSpinKitUtils.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -229,6 +231,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		044DACFBA2B0743DCEACA4631A41CE8B /* Serialization */ = {
+			isa = PBXGroup;
+			children = (
+				07F8C7216C0E5D8C777DAEB3C96D3F4D /* AFURLRequestSerialization.h */,
+				D3FF7D05BEE630225D7D70BFAA242D21 /* AFURLRequestSerialization.m */,
+				A0C50D51D86B89E3F17D73861D2BE366 /* AFURLResponseSerialization.h */,
+				5F4705A82F4510927CFD5BCE16B6ABF4 /* AFURLResponseSerialization.m */,
+			);
+			name = Serialization;
+			sourceTree = "<group>";
+		};
 		20B56609144CE204DFA8221F742B2D76 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -237,56 +250,23 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		229FB3BC8CC48A1DEEC186C5E600B3E5 /* UIKit */ = {
+		42406743922BBD9B3519043AE38FB2BC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				12FE5A346E56550119FDB6FA700EAC75 /* AFAutoPurgingImageCache.h */,
-				14169C97E24C9793B9803336F2E78085 /* AFAutoPurgingImageCache.m */,
-				06EFCF5888A8F4995A14400A9AFAF8A5 /* AFImageDownloader.h */,
-				22FBF0F7AFBB14E8551AFE9E00890196 /* AFImageDownloader.m */,
-				40CC0C5A9B42CFAADD1F9DFCEE24BA48 /* AFNetworkActivityIndicatorManager.h */,
-				274C36878C7460D0AD7A77D7505614A9 /* AFNetworkActivityIndicatorManager.m */,
-				E6FD7D266241C5E572D1B3FE02DCA15F /* UIActivityIndicatorView+AFNetworking.h */,
-				BE21A75F089D8E758CE37727D7F21A3C /* UIActivityIndicatorView+AFNetworking.m */,
-				2B1F75C39B1242008709D649594F7571 /* UIButton+AFNetworking.h */,
-				015C368E2EE0B84C4DC8A3D959D61B84 /* UIButton+AFNetworking.m */,
-				250A9A0293174A4D5DC04C44CB38086F /* UIImage+AFNetworking.h */,
-				C0880F8B3DBD9688E9E2D8C8B80E2321 /* UIImageView+AFNetworking.h */,
-				C5A72884ECA33A8DEFFFBB6A0B2928E9 /* UIImageView+AFNetworking.m */,
-				CFCC399EC92507B3F39CB51AC2443F2C /* UIKit+AFNetworking.h */,
-				5DB8C1DFEE6B30177BF14190BD599044 /* UIProgressView+AFNetworking.h */,
-				5EDB3C93732606A04CD30C3D90A23E79 /* UIProgressView+AFNetworking.m */,
-				240B94EA316598269CF089E800EB052A /* UIRefreshControl+AFNetworking.h */,
-				19CC0186CBC56638FC20F8A233C80159 /* UIRefreshControl+AFNetworking.m */,
-				EFDFB9C76BCF44565F487DB960D36D71 /* UIWebView+AFNetworking.h */,
-				6EA5E8782E2589D8E72877277EF23C5E /* UIWebView+AFNetworking.m */,
+				9E05A6596374A20F82F7C231C53597C5 /* BuddyBuildSDK.framework */,
 			);
-			name = UIKit;
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		2AA076D0D933EAD07BA08E4EB829317A /* AFNetworking */ = {
+		6E0675A3A2F038028AE5B0B2B658DACF /* NSURLSession */ = {
 			isa = PBXGroup;
 			children = (
-				2C9B05E93FE34EEFC6CB042CECC26D4F /* AFNetworking.h */,
-				A5B608D63D200C9AACC7FD4F1E0CE82F /* NSURLSession */,
-				9933141BA170ADADEBBC51073CEE9A24 /* Reachability */,
-				E6AB0FDEB67A627BF91247D8ABE0B983 /* Security */,
-				F444873DBC7341E99E514BF33CB17348 /* Serialization */,
-				847ADFEB9D299B32D0FA3D95B3158D5D /* Support Files */,
-				229FB3BC8CC48A1DEEC186C5E600B3E5 /* UIKit */,
+				D6874792AC69339E86375AA7E53814C1 /* AFHTTPSessionManager.h */,
+				1FD4215F6BC5526FACB31BD89BE04B1C /* AFHTTPSessionManager.m */,
+				5B7440E15BB07EC7195D4501FC03007A /* AFURLSessionManager.h */,
+				9C4BE4A641202894CF4E3563CEC99640 /* AFURLSessionManager.m */,
 			);
-			path = AFNetworking;
-			sourceTree = "<group>";
-		};
-		59752E20E9E5945D566779A1839E3790 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				696A92803D0DBF1FF30F2E1D3941BA08 /* SpinKit.xcconfig */,
-				BF2F9C31D468C2BB815F87C6B14D0B86 /* SpinKit-dummy.m */,
-				6AFE481219D9A7B6A2A5EEDC870CF659 /* SpinKit-prefix.pch */,
-			);
-			name = "Support Files";
-			path = "../Target Support Files/SpinKit";
+			name = NSURLSession;
 			sourceTree = "<group>";
 		};
 		76570F8EC61F0050569373AB30EE744C /* Products */ = {
@@ -299,76 +279,56 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7DB346D0F39D3F0E887471402A8071AB = {
+		769C9908556FE32E021B8A7C765B0773 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */,
-				20B56609144CE204DFA8221F742B2D76 /* Frameworks */,
-				C1E95A9689A8120F9FA83EABAAA89D82 /* Pods */,
-				76570F8EC61F0050569373AB30EE744C /* Products */,
-				BB155DF60D054D2E4A69EB0330704AC0 /* Targets Support Files */,
-			);
-			sourceTree = "<group>";
-		};
-		847ADFEB9D299B32D0FA3D95B3158D5D /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				A9EA22B1E01CCA26F282121DBF846EA8 /* AFNetworking.xcconfig */,
-				A4E79E37A054CC902DE14AA69819599D /* AFNetworking-dummy.m */,
-				69C1FB1A6F7215E127D582F7D63C3D5A /* AFNetworking-prefix.pch */,
+				3A0DCCF3D11684E7B456C3DBF7104CF6 /* AFNetworking.xcconfig */,
+				82531F92659409500766EB23E1C5822D /* AFNetworking-dummy.m */,
+				AB5F1A17DE241E895F45885351818AEC /* AFNetworking-prefix.pch */,
 			);
 			name = "Support Files";
 			path = "../Target Support Files/AFNetworking";
 			sourceTree = "<group>";
 		};
-		8A0D3DE6708F95F2CD0DD7FD70A983C7 /* SpinKit */ = {
+		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
-				A23C28E415AD82F1D26D974A9150ED05 /* RTSpinKit9CubeGridAnimation.h */,
-				A2ACBDB4AEB8CDC33A2D3EFF1FABE01E /* RTSpinKit9CubeGridAnimation.m */,
-				103BE076328A12292538B86500CB2B2D /* RTSpinKitAnimating.h */,
-				84DACFF877A0B983D58B0FF4C5C0562A /* RTSpinKitArcAltAnimation.h */,
-				E8BAFEFA81726DCFBEFA578B34064F52 /* RTSpinKitArcAltAnimation.m */,
-				01FC82647043BA218E86045388675B28 /* RTSpinKitArcAnimation.h */,
-				FB569941A4771610C56DA592611CF212 /* RTSpinKitArcAnimation.m */,
-				0358D6332294828C4BA06E12E9907D48 /* RTSpinKitBounceAnimation.h */,
-				563D403639D7712DEB0514908D404460 /* RTSpinKitBounceAnimation.m */,
-				2696CE3CA32F761DED04394B013AAD8E /* RTSpinKitChasingDotsAnimation.h */,
-				81C98AFD273268E62FEF35A4C3EAE026 /* RTSpinKitChasingDotsAnimation.m */,
-				23494868E4857FB2648DB37D6DCF52E6 /* RTSpinKitCircleAnimation.h */,
-				9D6AEA60954B219EEE558F437644C60B /* RTSpinKitCircleAnimation.m */,
-				EAB8D26F496463CFB83787606AA26516 /* RTSpinKitCircleFlipAnimation.h */,
-				BCF099428A45B63721492FC6AD8A838B /* RTSpinKitCircleFlipAnimation.m */,
-				F82E7B0A94A701A077CF0A951975F597 /* RTSpinKitFadingCircleAltAnimation.h */,
-				386A3F61169AE742C80DA9A6A53AD7B5 /* RTSpinKitFadingCircleAltAnimation.m */,
-				65C16C4A991D06068DE19E61D0292247 /* RTSpinKitFadingCircleAnimation.h */,
-				436F55AE36FD531A33E8A346A25BE986 /* RTSpinKitFadingCircleAnimation.m */,
-				EFB2CAD993C592B707B3C337D5D51527 /* RTSpinKitPlaneAnimation.h */,
-				65F5F969D2CB14AD7862138302EC8AEB /* RTSpinKitPlaneAnimation.m */,
-				F8E4A1F330B4687A889795EA8722B0F6 /* RTSpinKitPulseAnimation.h */,
-				B4EC583E02536FBADB999196D00848F3 /* RTSpinKitPulseAnimation.m */,
-				34680345FF123C9F7D4CC9309496F1BE /* RTSpinKitThreeBounceAnimation.h */,
-				2367D0432DF8EC1F23ABE27CE5DBA218 /* RTSpinKitThreeBounceAnimation.m */,
-				7659AEBBB122E904E9FBE06E6A7E6F07 /* RTSpinKitUtils.h */,
-				9F811225D9F5114E91C3483A998A6661 /* RTSpinKitUtils.m */,
-				D1490EA729F4C71C1DB1AA99D15BDBEA /* RTSpinKitView.h */,
-				CB73F7F37D2AA8E04523A5C7A4CA7032 /* RTSpinKitView.m */,
-				03F6269A0E14670507D0D97A016D90C9 /* RTSpinKitWanderingCubesAnimation.h */,
-				172F5A7DF989312945CA57D629361207 /* RTSpinKitWanderingCubesAnimation.m */,
-				7EB150670F23989B651ECE6C5FAAFA77 /* RTSpinKitWaveAnimation.h */,
-				BA21496708182CA6C07F2C77CFD4C5A0 /* RTSpinKitWaveAnimation.m */,
-				34006BF4C69E348A8039B0F8DE454947 /* RTSpinKitWordPressAnimation.h */,
-				A5643F01430A685034636F9BC19D80A9 /* RTSpinKitWordPressAnimation.m */,
-				59752E20E9E5945D566779A1839E3790 /* Support Files */,
+				BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */,
+				20B56609144CE204DFA8221F742B2D76 /* Frameworks */,
+				FE86F61C1F25C4CE23527ABBDAAB8D9C /* Pods */,
+				76570F8EC61F0050569373AB30EE744C /* Products */,
+				BB155DF60D054D2E4A69EB0330704AC0 /* Targets Support Files */,
 			);
-			path = SpinKit;
 			sourceTree = "<group>";
 		};
-		9933141BA170ADADEBBC51073CEE9A24 /* Reachability */ = {
+		8AD5F65A9698C6A9CC28E9A90455611C /* AFNetworking */ = {
 			isa = PBXGroup;
 			children = (
-				8EB85934135666C11ED9F79B471A8F84 /* AFNetworkReachabilityManager.h */,
-				EC196A343D35479F1E206A7C924A53C0 /* AFNetworkReachabilityManager.m */,
+				2B86E87E1E32F26788086DEBFBFF4BB7 /* AFNetworking.h */,
+				6E0675A3A2F038028AE5B0B2B658DACF /* NSURLSession */,
+				9DF6A66CE3C4CC8B8B967583239F1F14 /* Reachability */,
+				BF9861E0F8327053431950C84D403EBB /* Security */,
+				044DACFBA2B0743DCEACA4631A41CE8B /* Serialization */,
+				769C9908556FE32E021B8A7C765B0773 /* Support Files */,
+				DAB2BDDD279375FD091CCD797EF8B6D7 /* UIKit */,
+			);
+			path = AFNetworking;
+			sourceTree = "<group>";
+		};
+		8B62EF98384EB0E9BC6BC826315F785B /* BuddyBuildSDK */ = {
+			isa = PBXGroup;
+			children = (
+				E56B497A3B6CCBF26C4D76F5077E8787 /* BuddyBuildSDK.h */,
+				42406743922BBD9B3519043AE38FB2BC /* Frameworks */,
+			);
+			path = BuddyBuildSDK;
+			sourceTree = "<group>";
+		};
+		9DF6A66CE3C4CC8B8B967583239F1F14 /* Reachability */ = {
+			isa = PBXGroup;
+			children = (
+				266AD0DE694F66F19F90A6A1592AB0AF /* AFNetworkReachabilityManager.h */,
+				63E651DA768FAC636188EB921EF96CC4 /* AFNetworkReachabilityManager.m */,
 			);
 			name = Reachability;
 			sourceTree = "<group>";
@@ -388,15 +348,15 @@
 			path = "Target Support Files/Pods-WeatherApp";
 			sourceTree = "<group>";
 		};
-		A5B608D63D200C9AACC7FD4F1E0CE82F /* NSURLSession */ = {
+		AFD954EC8964C2BD3A5889B370900186 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				A44AD49A7F9FEE40C43A338A8521BBB4 /* AFHTTPSessionManager.h */,
-				FE8A45655546396A80A50FB2584D2C79 /* AFHTTPSessionManager.m */,
-				DF1585D430EF843FE8EDCEB5DC1421F7 /* AFURLSessionManager.h */,
-				6B0363C54F9D171B8B9CE1BA2B2100DF /* AFURLSessionManager.m */,
+				7426B0E20A363EC9B314EE72987B63DD /* SpinKit.xcconfig */,
+				59F07C2B633021114A19512C8A10F334 /* SpinKit-dummy.m */,
+				B0CFCEFC42205522A18F2BE0ABC8C738 /* SpinKit-prefix.pch */,
 			);
-			name = NSURLSession;
+			name = "Support Files";
+			path = "../Target Support Files/SpinKit";
 			sourceTree = "<group>";
 		};
 		BB155DF60D054D2E4A69EB0330704AC0 /* Targets Support Files */ = {
@@ -407,33 +367,93 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		C1E95A9689A8120F9FA83EABAAA89D82 /* Pods */ = {
+		BF9861E0F8327053431950C84D403EBB /* Security */ = {
 			isa = PBXGroup;
 			children = (
-				2AA076D0D933EAD07BA08E4EB829317A /* AFNetworking */,
-				8A0D3DE6708F95F2CD0DD7FD70A983C7 /* SpinKit */,
-			);
-			name = Pods;
-			sourceTree = "<group>";
-		};
-		E6AB0FDEB67A627BF91247D8ABE0B983 /* Security */ = {
-			isa = PBXGroup;
-			children = (
-				549CE9B008FC2D534C29657CFB0F6FCC /* AFSecurityPolicy.h */,
-				45796D9E6A9D72C1A15C245A2D0DAE43 /* AFSecurityPolicy.m */,
+				7C848A8FF48C1F181BADD4BEF9D7598A /* AFSecurityPolicy.h */,
+				E001469B6795730BF4B093DF66390036 /* AFSecurityPolicy.m */,
 			);
 			name = Security;
 			sourceTree = "<group>";
 		};
-		F444873DBC7341E99E514BF33CB17348 /* Serialization */ = {
+		D63D741CE88AD8157B6D2C1CC6324980 /* SpinKit */ = {
 			isa = PBXGroup;
 			children = (
-				00754E68C4F76D582EC868EBE2668EE2 /* AFURLRequestSerialization.h */,
-				350BE844B594CCBAFD86483BDD85B63A /* AFURLRequestSerialization.m */,
-				79BD7D64860A14C7CD487CC1AE2B2089 /* AFURLResponseSerialization.h */,
-				8C52E95F93A9238E49F9EA3C6CDDAC6A /* AFURLResponseSerialization.m */,
+				F64DCC3A085E3102B466BE8D90A7B55A /* RTSpinKit9CubeGridAnimation.h */,
+				370FEC5240D82BD68E473E37EA8D4180 /* RTSpinKit9CubeGridAnimation.m */,
+				6D5B2458F449F5D10BB366BA48BB9EBF /* RTSpinKitAnimating.h */,
+				CA3CF5949E9CF5133113FB59BD8C2570 /* RTSpinKitArcAltAnimation.h */,
+				43252C372D9E3A6F3A5E7DFC0191153E /* RTSpinKitArcAltAnimation.m */,
+				E2664CAB7E7DD12EBBCD14AAD59993AE /* RTSpinKitArcAnimation.h */,
+				8778F0307BAF3447EF3ABC4DFFBC85A1 /* RTSpinKitArcAnimation.m */,
+				11596DF1583D519F9437CDD9B8851A0E /* RTSpinKitBounceAnimation.h */,
+				DB0A4C03E55D068559D4201CEB54F2B5 /* RTSpinKitBounceAnimation.m */,
+				B5E317ED74DFA43B76E1B52FBEBD219D /* RTSpinKitChasingDotsAnimation.h */,
+				C0277CF47329AB0E3445069FCF7422AC /* RTSpinKitChasingDotsAnimation.m */,
+				C2FD4E3BC866D3BD0DA895B98B8C6C79 /* RTSpinKitCircleAnimation.h */,
+				7EB455702A62EA5B943139D4882AC701 /* RTSpinKitCircleAnimation.m */,
+				C6AB95844576174F9753E1F0A3635146 /* RTSpinKitCircleFlipAnimation.h */,
+				5E3860BD56754CE588A8BA1948EABC4D /* RTSpinKitCircleFlipAnimation.m */,
+				E4599C8C7470A341E1519F5235FFE941 /* RTSpinKitFadingCircleAltAnimation.h */,
+				0C05C46CDC5DFFC91470F2515CFB90EA /* RTSpinKitFadingCircleAltAnimation.m */,
+				40B1FECD5FC48155564BCD539EEE9E32 /* RTSpinKitFadingCircleAnimation.h */,
+				ED99F6DA0CD627DD4C5A71901BF4022F /* RTSpinKitFadingCircleAnimation.m */,
+				7F185E12FF7247671108E4E4C56CF19B /* RTSpinKitPlaneAnimation.h */,
+				2C12C79854ECC76F62A8473C6CFAA9AE /* RTSpinKitPlaneAnimation.m */,
+				5091D7ED8FC605820411ED852E59A4C4 /* RTSpinKitPulseAnimation.h */,
+				EADEB2BD10766359E4E8A4D503BFFB0E /* RTSpinKitPulseAnimation.m */,
+				43D0775BD01760A5982BE66F2F291E8B /* RTSpinKitThreeBounceAnimation.h */,
+				AF973F902846F89C1B9156DB942092F8 /* RTSpinKitThreeBounceAnimation.m */,
+				FE1E21C6D29F3D518C0A3E37273E5D7C /* RTSpinKitUtils.h */,
+				5F3930766B019347651331799D7E40E1 /* RTSpinKitUtils.m */,
+				6C03B5C133FDDEEA1DCEE8F3EE1DB2A0 /* RTSpinKitView.h */,
+				A02A1FCD1FD70EF3E112A927DC102418 /* RTSpinKitView.m */,
+				E2ABF86AF649EE26116BAEE549DE6B41 /* RTSpinKitWanderingCubesAnimation.h */,
+				683B14E4DF21106B0D9D1F00D6D66B8B /* RTSpinKitWanderingCubesAnimation.m */,
+				0D55CEFA63491BBC576E08EA250EB4B2 /* RTSpinKitWaveAnimation.h */,
+				BF53D71414D07608B10648DE3FF9DE02 /* RTSpinKitWaveAnimation.m */,
+				70712C634E677542743FF64EB914F82C /* RTSpinKitWordPressAnimation.h */,
+				6C83F0C254FAB63798187A22C07392C2 /* RTSpinKitWordPressAnimation.m */,
+				AFD954EC8964C2BD3A5889B370900186 /* Support Files */,
 			);
-			name = Serialization;
+			path = SpinKit;
+			sourceTree = "<group>";
+		};
+		DAB2BDDD279375FD091CCD797EF8B6D7 /* UIKit */ = {
+			isa = PBXGroup;
+			children = (
+				36F5712BF9FE0EFB25123B943D786FD1 /* AFAutoPurgingImageCache.h */,
+				B4B71473DAF1655F81D93BC9A4A3370A /* AFAutoPurgingImageCache.m */,
+				19B8A0D9D9112167C881C5E76E35A2BD /* AFImageDownloader.h */,
+				9C0994CEAD39A0C1E3A1B4A626F5D26C /* AFImageDownloader.m */,
+				DC5EB24006915F75AB0F3E41074DB4E1 /* AFNetworkActivityIndicatorManager.h */,
+				6BF6253D7F406BC796114B31DA519BD7 /* AFNetworkActivityIndicatorManager.m */,
+				8997F67C9263691EE29B95C7D9DB8A90 /* UIActivityIndicatorView+AFNetworking.h */,
+				5435D14F58944329C6CBE6B475B3060E /* UIActivityIndicatorView+AFNetworking.m */,
+				A108A19B730EA3418E874BDE0A35A5F0 /* UIButton+AFNetworking.h */,
+				B29D6B6F05BC754EE127A3A06EE62984 /* UIButton+AFNetworking.m */,
+				F94013F6F66159A1402189262DF687B5 /* UIImage+AFNetworking.h */,
+				FB4AD337C9D809D8B5A8B993D92B521E /* UIImageView+AFNetworking.h */,
+				9C8F08194E3356833167BD78B5EAD38C /* UIImageView+AFNetworking.m */,
+				205C4F6EDCD89821BE757D079D319057 /* UIKit+AFNetworking.h */,
+				BAF56F2B9310E92BC85314263C341AF4 /* UIProgressView+AFNetworking.h */,
+				52B25AD6E4000EDD27549270FD2B3849 /* UIProgressView+AFNetworking.m */,
+				0D45CDF46BD1A3BB456584F7CF947B00 /* UIRefreshControl+AFNetworking.h */,
+				2B5CF8514B6210EEAE09A3E709B213BB /* UIRefreshControl+AFNetworking.m */,
+				C208EE91305E2E1C90406972FCD71828 /* UIWebView+AFNetworking.h */,
+				01157348C15195C9004771F84350624A /* UIWebView+AFNetworking.m */,
+			);
+			name = UIKit;
+			sourceTree = "<group>";
+		};
+		FE86F61C1F25C4CE23527ABBDAAB8D9C /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				8AD5F65A9698C6A9CC28E9A90455611C /* AFNetworking */,
+				8B62EF98384EB0E9BC6BC826315F785B /* BuddyBuildSDK */,
+				D63D741CE88AD8157B6D2C1CC6324980 /* SpinKit */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		FFD977C5D23FB16656C5D57197BAA49C /* iOS */ = {
@@ -661,7 +681,7 @@
 /* Begin XCBuildConfiguration section */
 		2EAC43789FE8637F8AB1F35041C57F49 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A9EA22B1E01CCA26F282121DBF846EA8 /* AFNetworking.xcconfig */;
+			baseConfigurationReference = 3A0DCCF3D11684E7B456C3DBF7104CF6 /* AFNetworking.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/AFNetworking/AFNetworking-prefix.pch";
@@ -679,7 +699,7 @@
 		};
 		34EAFDC792810E4C96A409772C73D258 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A9EA22B1E01CCA26F282121DBF846EA8 /* AFNetworking.xcconfig */;
+			baseConfigurationReference = 3A0DCCF3D11684E7B456C3DBF7104CF6 /* AFNetworking.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/AFNetworking/AFNetworking-prefix.pch";
@@ -714,7 +734,7 @@
 		};
 		5FB44DE3D15304B0A8D8C757F5A16FA3 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 696A92803D0DBF1FF30F2E1D3941BA08 /* SpinKit.xcconfig */;
+			baseConfigurationReference = 7426B0E20A363EC9B314EE72987B63DD /* SpinKit.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/SpinKit/SpinKit-prefix.pch";
@@ -822,7 +842,7 @@
 		};
 		FE39E5BB74F07F0E25DAD1FDCB3F3A7D /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 696A92803D0DBF1FF30F2E1D3941BA08 /* SpinKit.xcconfig */;
+			baseConfigurationReference = 7426B0E20A363EC9B314EE72987B63DD /* SpinKit.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/SpinKit/SpinKit-prefix.pch";

@@ -65,9 +65,9 @@
                                     </label>
                                     <searchBar contentMode="redraw" translatesAutoresizingMaskIntoConstraints="NO" id="meT-XH-zeC">
                                         <rect key="frame" x="23" y="74" width="228" height="44"/>
-                                        <constraints>
-                                            <constraint firstAttribute="width" constant="228" id="3df-7Y-DRe"/>
-                                        </constraints>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <color key="barTintColor" red="1" green="1" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                         <textInputTraits key="textInputTraits"/>
                                     </searchBar>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HA5-e7-Zgg">
@@ -103,6 +103,7 @@
                                     <constraint firstItem="tqd-OY-x5l" firstAttribute="leading" secondItem="CWR-tY-C81" secondAttribute="leading" constant="23" id="4X1-3J-6XG"/>
                                     <constraint firstItem="j06-XH-sh1" firstAttribute="leading" secondItem="CWR-tY-C81" secondAttribute="leading" constant="23" id="5Np-5p-4Wb"/>
                                     <constraint firstAttribute="trailing" secondItem="tqd-OY-x5l" secondAttribute="trailing" constant="23" id="6P1-gh-4aI"/>
+                                    <constraint firstItem="meT-XH-zeC" firstAttribute="height" secondItem="HA5-e7-Zgg" secondAttribute="height" id="99X-YP-iKF"/>
                                     <constraint firstAttribute="trailing" secondItem="rhO-hh-UAY" secondAttribute="trailing" constant="23" id="B5b-Po-6Gs"/>
                                     <constraint firstItem="meT-XH-zeC" firstAttribute="top" secondItem="rhO-hh-UAY" secondAttribute="bottom" constant="31" id="BE5-0b-cQt"/>
                                     <constraint firstItem="rhO-hh-UAY" firstAttribute="top" secondItem="CWR-tY-C81" secondAttribute="top" constant="8" id="OEj-MT-0wq"/>
@@ -111,6 +112,7 @@
                                     <constraint firstAttribute="bottom" secondItem="j06-XH-sh1" secondAttribute="bottom" constant="128" id="Wau-zr-Ixc"/>
                                     <constraint firstItem="tqd-OY-x5l" firstAttribute="top" secondItem="j06-XH-sh1" secondAttribute="bottom" constant="21" id="Wbl-So-hMv"/>
                                     <constraint firstAttribute="trailing" secondItem="j06-XH-sh1" secondAttribute="trailing" constant="23" id="aML-nK-JFk"/>
+                                    <constraint firstItem="HA5-e7-Zgg" firstAttribute="leading" secondItem="meT-XH-zeC" secondAttribute="trailing" id="q6H-iO-QBe"/>
                                     <constraint firstAttribute="trailing" secondItem="HA5-e7-Zgg" secondAttribute="trailing" constant="23" id="vCb-oH-ja1"/>
                                     <constraint firstItem="HA5-e7-Zgg" firstAttribute="top" secondItem="rhO-hh-UAY" secondAttribute="bottom" constant="31" id="yJF-1t-7uT"/>
                                 </constraints>
